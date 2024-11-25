@@ -1,2 +1,16 @@
-# MITRE-ATTACK-Data-Visualisation
-an ICT Innovation Project (ICT30016) where we developed an data visualisation app for simplyfing and contextualising the complex information of a MITRE ATT&amp;CK dataset. This app focuses on the Enterprise Matrix of MITRE ATT&amp;CK.
+Dependencies
+- Streamlit
+- numpy
+- pandas
+- Scikit-learn
+- plotly 
+- nltk
+- worldcloud 
+- matplotlib
+- Networkx
+
+How to run the Web App
+------------------------
+1. Clone the repository
+2. Install the required dependencies
+3. Run the app using streamlit run Homepage.py
